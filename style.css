@@ -1,0 +1,22 @@
+.container{
+    background: greenyellow;
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+#fetchdata{
+    background: hotpink;
+    display:flex;
+    flex-direction: row;
+    flex-wrap: wrap;
+    padding: 20px;
+}
+
+.large{
+    background: rgb(47, 213, 255);
+    flex-wrap: wrap;
+    padding: 20px;
+    row-gap: 25px;
+    margin-top:10px;
+}
